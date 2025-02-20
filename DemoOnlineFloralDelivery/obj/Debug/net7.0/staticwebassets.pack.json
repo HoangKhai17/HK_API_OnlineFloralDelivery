@@ -1,0 +1,837 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\010f995a34054560bb76f6ceb62449d7.jpg",
+      "PackagePath": "staticwebassets\\images\\010f995a34054560bb76f6ceb62449d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\01f08351c43b4ceba482323a5581f257.jpg",
+      "PackagePath": "staticwebassets\\images\\01f08351c43b4ceba482323a5581f257.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\028a013f5e304283b3008be16bc7338f.jpg",
+      "PackagePath": "staticwebassets\\images\\028a013f5e304283b3008be16bc7338f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\0463ae3deb3b49cb82bac0f405a99e67.jpg",
+      "PackagePath": "staticwebassets\\images\\0463ae3deb3b49cb82bac0f405a99e67.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\04c339738b0d4f76ba6a7b9c13e5a585.jpg",
+      "PackagePath": "staticwebassets\\images\\04c339738b0d4f76ba6a7b9c13e5a585.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\057cab22775b41089c331ee471dbc96f.jpg",
+      "PackagePath": "staticwebassets\\images\\057cab22775b41089c331ee471dbc96f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\063d6cabac9c4fbbabb6992f784510f5.jpg",
+      "PackagePath": "staticwebassets\\images\\063d6cabac9c4fbbabb6992f784510f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\07fa581f86f84b1a9d44f2204e837a6f.jpg",
+      "PackagePath": "staticwebassets\\images\\07fa581f86f84b1a9d44f2204e837a6f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\095cf91af7a74e5296b8365b40dd8599.jpg",
+      "PackagePath": "staticwebassets\\images\\095cf91af7a74e5296b8365b40dd8599.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\098f4bec73cd493f94f7d2023a3ae39a.jpg",
+      "PackagePath": "staticwebassets\\images\\098f4bec73cd493f94f7d2023a3ae39a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\0af0248594e14a0e980cc67b2171948c.jpg",
+      "PackagePath": "staticwebassets\\images\\0af0248594e14a0e980cc67b2171948c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\0be9b8b104c14cae9adfef89f28db711.jpg",
+      "PackagePath": "staticwebassets\\images\\0be9b8b104c14cae9adfef89f28db711.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\0eb5291a42834ea5a489b74753e26a33.jpg",
+      "PackagePath": "staticwebassets\\images\\0eb5291a42834ea5a489b74753e26a33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\127be7a0aec5432b901dae92dac68ff8.jpg",
+      "PackagePath": "staticwebassets\\images\\127be7a0aec5432b901dae92dac68ff8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\14376edf5e7b47568e4ca751f27b9ea5.jpg",
+      "PackagePath": "staticwebassets\\images\\14376edf5e7b47568e4ca751f27b9ea5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\146927063c604be396538c9e060b6dc9.jpg",
+      "PackagePath": "staticwebassets\\images\\146927063c604be396538c9e060b6dc9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\154dbbc44e564e9988ee483e0d000813.jpg",
+      "PackagePath": "staticwebassets\\images\\154dbbc44e564e9988ee483e0d000813.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\16cffba3b3c8486fa5843f2ed4c8e4f8.jpg",
+      "PackagePath": "staticwebassets\\images\\16cffba3b3c8486fa5843f2ed4c8e4f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\18bdc135add64bd19ca14a89754ed301.jpg",
+      "PackagePath": "staticwebassets\\images\\18bdc135add64bd19ca14a89754ed301.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\1b07b7fcdd5140b691880468f56dac94.jpg",
+      "PackagePath": "staticwebassets\\images\\1b07b7fcdd5140b691880468f56dac94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\1bd77643ac524514af693f9ee8d86013.jpg",
+      "PackagePath": "staticwebassets\\images\\1bd77643ac524514af693f9ee8d86013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\1ca816a2e7d34cf7a7c994bbb30f9043.jpg",
+      "PackagePath": "staticwebassets\\images\\1ca816a2e7d34cf7a7c994bbb30f9043.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\1cd134a00cb44fca95adcb100cfa51e1.jpg",
+      "PackagePath": "staticwebassets\\images\\1cd134a00cb44fca95adcb100cfa51e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\1d1eaa4c8a4140c0b315dde2eec9a829.jpg",
+      "PackagePath": "staticwebassets\\images\\1d1eaa4c8a4140c0b315dde2eec9a829.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\1d57649a463e4fdcac37267ec6650e42.jpg",
+      "PackagePath": "staticwebassets\\images\\1d57649a463e4fdcac37267ec6650e42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\1e2f643af1e141aea945ebe2350a6f39.jpg",
+      "PackagePath": "staticwebassets\\images\\1e2f643af1e141aea945ebe2350a6f39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\1e54ea17cbda4e21bec20400d6967dfc.jpg",
+      "PackagePath": "staticwebassets\\images\\1e54ea17cbda4e21bec20400d6967dfc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\1eaf9ec541024b7cb7a6e211625a8d95.jpg",
+      "PackagePath": "staticwebassets\\images\\1eaf9ec541024b7cb7a6e211625a8d95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\1fbc550117d54b69838517ce41ab4e80.jpg",
+      "PackagePath": "staticwebassets\\images\\1fbc550117d54b69838517ce41ab4e80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\1fe1953e7f54406bb798787cc9f58f75.jpg",
+      "PackagePath": "staticwebassets\\images\\1fe1953e7f54406bb798787cc9f58f75.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\21f69ea6559c443ab84d3f3075eb62a1.jpg",
+      "PackagePath": "staticwebassets\\images\\21f69ea6559c443ab84d3f3075eb62a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\220df27f8b68499e8d385862f3f954ab.jpg",
+      "PackagePath": "staticwebassets\\images\\220df27f8b68499e8d385862f3f954ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\227a98f40ae44b4eb27ab05908142825.jpg",
+      "PackagePath": "staticwebassets\\images\\227a98f40ae44b4eb27ab05908142825.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\230efeeb859f4a7288e21a078fcf64ec.png",
+      "PackagePath": "staticwebassets\\images\\230efeeb859f4a7288e21a078fcf64ec.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\234a4fa2d9f54535a30fb7005fd1aac0.jpg",
+      "PackagePath": "staticwebassets\\images\\234a4fa2d9f54535a30fb7005fd1aac0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\26b29301cb9c416ea9d5a119d9be8c3b.jpg",
+      "PackagePath": "staticwebassets\\images\\26b29301cb9c416ea9d5a119d9be8c3b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\27b48724f8ed438b96ddc42b93268d96.jpg",
+      "PackagePath": "staticwebassets\\images\\27b48724f8ed438b96ddc42b93268d96.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\29155f4fb8fe4f5ab2823767b88b631e.jpg",
+      "PackagePath": "staticwebassets\\images\\29155f4fb8fe4f5ab2823767b88b631e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\293cc4eaed9d4d5e88d412127c77c8af.jpg",
+      "PackagePath": "staticwebassets\\images\\293cc4eaed9d4d5e88d412127c77c8af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\2d004bd7cc8040b2bc175fe340c1c51b.jpg",
+      "PackagePath": "staticwebassets\\images\\2d004bd7cc8040b2bc175fe340c1c51b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\2ddafa550fbc480eb5985a85e720338f.jpg",
+      "PackagePath": "staticwebassets\\images\\2ddafa550fbc480eb5985a85e720338f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\2f26c3b655724e11880919a62ef0ac0d.jpg",
+      "PackagePath": "staticwebassets\\images\\2f26c3b655724e11880919a62ef0ac0d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\2f48bce1dc064d3bb344350a3de32c83.jpg",
+      "PackagePath": "staticwebassets\\images\\2f48bce1dc064d3bb344350a3de32c83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\319a8e0b59414c5eb2320cd8c09298c5.jpg",
+      "PackagePath": "staticwebassets\\images\\319a8e0b59414c5eb2320cd8c09298c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\329d70d7b0bf4918b77512880b457d71.jpg",
+      "PackagePath": "staticwebassets\\images\\329d70d7b0bf4918b77512880b457d71.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\3356f251c5604fc3bd1344ae2056d854.jpg",
+      "PackagePath": "staticwebassets\\images\\3356f251c5604fc3bd1344ae2056d854.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\3652cf98500d49e0ad1b9fbd1631cd5c.jpg",
+      "PackagePath": "staticwebassets\\images\\3652cf98500d49e0ad1b9fbd1631cd5c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\377e6c6977e746edbf7281432a31217e.jpg",
+      "PackagePath": "staticwebassets\\images\\377e6c6977e746edbf7281432a31217e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\3993ee9ca04b4f0086dca80e57036842.jpg",
+      "PackagePath": "staticwebassets\\images\\3993ee9ca04b4f0086dca80e57036842.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\3a9b19ed370648b8a30a6c78c9abf65b.jpg",
+      "PackagePath": "staticwebassets\\images\\3a9b19ed370648b8a30a6c78c9abf65b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\3c9a701e9d7f43a685b62f9caca962e6.jpg",
+      "PackagePath": "staticwebassets\\images\\3c9a701e9d7f43a685b62f9caca962e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\3ee52d2fb6494262accc57aac91a1662.jpg",
+      "PackagePath": "staticwebassets\\images\\3ee52d2fb6494262accc57aac91a1662.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\3f06c5736b604fc2acd31d4c9d465a57.jpg",
+      "PackagePath": "staticwebassets\\images\\3f06c5736b604fc2acd31d4c9d465a57.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\3f1ed6e47c774092844e4522573f495e.jpg",
+      "PackagePath": "staticwebassets\\images\\3f1ed6e47c774092844e4522573f495e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\432313868a4e4670b0f4ba77fe8d3ed6.jpg",
+      "PackagePath": "staticwebassets\\images\\432313868a4e4670b0f4ba77fe8d3ed6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\433f23acd19b486ba107e87ba330b75b.jpg",
+      "PackagePath": "staticwebassets\\images\\433f23acd19b486ba107e87ba330b75b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\44c3dda9004a4f3cae3edf6efabc9ab5.jpg",
+      "PackagePath": "staticwebassets\\images\\44c3dda9004a4f3cae3edf6efabc9ab5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\44c6d2041dbc41d2a0644d93c4cdcfd5.jpg",
+      "PackagePath": "staticwebassets\\images\\44c6d2041dbc41d2a0644d93c4cdcfd5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\457a3697022142f0b0a86312da9ab865.jpg",
+      "PackagePath": "staticwebassets\\images\\457a3697022142f0b0a86312da9ab865.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\46288e5af2854728aa3608936d365da3.jpg",
+      "PackagePath": "staticwebassets\\images\\46288e5af2854728aa3608936d365da3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\47de64db001c4d96b4fc38155a455e9e.jpg",
+      "PackagePath": "staticwebassets\\images\\47de64db001c4d96b4fc38155a455e9e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\481714fdcc0a44d8bbaa61d168cd2306.jpg",
+      "PackagePath": "staticwebassets\\images\\481714fdcc0a44d8bbaa61d168cd2306.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\4a27b425ea5c4d0ca72f8ea14b33292d.jpg",
+      "PackagePath": "staticwebassets\\images\\4a27b425ea5c4d0ca72f8ea14b33292d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\4a3cb34d8e564cfdbb278a2323b274af.jpg",
+      "PackagePath": "staticwebassets\\images\\4a3cb34d8e564cfdbb278a2323b274af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\4a837dfdd1c347b998be7b2c3f2ea7e5.jpg",
+      "PackagePath": "staticwebassets\\images\\4a837dfdd1c347b998be7b2c3f2ea7e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\4c37da61efa44b38a69d79db99bdd15b.jpg",
+      "PackagePath": "staticwebassets\\images\\4c37da61efa44b38a69d79db99bdd15b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\4c42bccedd784f9fa30be2b51168ef26.jpg",
+      "PackagePath": "staticwebassets\\images\\4c42bccedd784f9fa30be2b51168ef26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\4caf143875fe4bd9a3ba0cd26e4524a3.jpg",
+      "PackagePath": "staticwebassets\\images\\4caf143875fe4bd9a3ba0cd26e4524a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\50ad62369e9b4c72a7b7e972b7ca5d07.jpg",
+      "PackagePath": "staticwebassets\\images\\50ad62369e9b4c72a7b7e972b7ca5d07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\543a200284ea4474ba37ee462441019e.jpg",
+      "PackagePath": "staticwebassets\\images\\543a200284ea4474ba37ee462441019e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\5448d18198c146c6a5491f681c0d71b6.jpg",
+      "PackagePath": "staticwebassets\\images\\5448d18198c146c6a5491f681c0d71b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\547d072e84974db49ac9d275c16911d9.jpg",
+      "PackagePath": "staticwebassets\\images\\547d072e84974db49ac9d275c16911d9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\5560faa8fd924b498fdedb9e4790ed25.jpg",
+      "PackagePath": "staticwebassets\\images\\5560faa8fd924b498fdedb9e4790ed25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\56ecaa8200b34a708f9c3a1995fdddc9.jpg",
+      "PackagePath": "staticwebassets\\images\\56ecaa8200b34a708f9c3a1995fdddc9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\57a9d9c8abfb4e4eb679c2fe62a5739e.jpg",
+      "PackagePath": "staticwebassets\\images\\57a9d9c8abfb4e4eb679c2fe62a5739e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\59cca8f4274f4f03944ca12a98cf73b8.jpg",
+      "PackagePath": "staticwebassets\\images\\59cca8f4274f4f03944ca12a98cf73b8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\5adc670f2cf14fe1ad66d23a18f9a256.jpg",
+      "PackagePath": "staticwebassets\\images\\5adc670f2cf14fe1ad66d23a18f9a256.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\5c1483b21989477da29517329f1db943.jpg",
+      "PackagePath": "staticwebassets\\images\\5c1483b21989477da29517329f1db943.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\5cc51300ff25418a80614e642d1c69c8.jpg",
+      "PackagePath": "staticwebassets\\images\\5cc51300ff25418a80614e642d1c69c8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\5d8522940670427d9cb310a3aa4a9572.jpg",
+      "PackagePath": "staticwebassets\\images\\5d8522940670427d9cb310a3aa4a9572.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\5e188700b5e54a10bc5e938f484aaffe.jpg",
+      "PackagePath": "staticwebassets\\images\\5e188700b5e54a10bc5e938f484aaffe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\5efb9e528b18417a849dc47e3deabc89.jpg",
+      "PackagePath": "staticwebassets\\images\\5efb9e528b18417a849dc47e3deabc89.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\5f29216befe7494c90ba78c0e9de1291.jpg",
+      "PackagePath": "staticwebassets\\images\\5f29216befe7494c90ba78c0e9de1291.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\6001f257974d49be8692e22d4329bf61.jpg",
+      "PackagePath": "staticwebassets\\images\\6001f257974d49be8692e22d4329bf61.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\62320052268640bb99080963c324c710.jpg",
+      "PackagePath": "staticwebassets\\images\\62320052268640bb99080963c324c710.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\63a11f1eac1540248c20a7620a7a9a7e.jpg",
+      "PackagePath": "staticwebassets\\images\\63a11f1eac1540248c20a7620a7a9a7e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\65a233013aa74b90a986b6ed4865a53d.jpg",
+      "PackagePath": "staticwebassets\\images\\65a233013aa74b90a986b6ed4865a53d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\66ec2bb4e538489b9df667baf87015ed.jpg",
+      "PackagePath": "staticwebassets\\images\\66ec2bb4e538489b9df667baf87015ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\68c618e974e24e9b856e53652c754ad3.jpg",
+      "PackagePath": "staticwebassets\\images\\68c618e974e24e9b856e53652c754ad3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\6b0fc7288ca549739004f66b45ccedf4.jpg",
+      "PackagePath": "staticwebassets\\images\\6b0fc7288ca549739004f66b45ccedf4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\6c89881afdf14838a1d3ec4a5cd68cc2.jpg",
+      "PackagePath": "staticwebassets\\images\\6c89881afdf14838a1d3ec4a5cd68cc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\708d3eacaa11485b8f34558052a1590e.jpg",
+      "PackagePath": "staticwebassets\\images\\708d3eacaa11485b8f34558052a1590e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\70ecad2ffeb24373b13b958f078c119c.jpg",
+      "PackagePath": "staticwebassets\\images\\70ecad2ffeb24373b13b958f078c119c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\71598c74df5c4d968d084e143f2b78dd.jpg",
+      "PackagePath": "staticwebassets\\images\\71598c74df5c4d968d084e143f2b78dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\7324c679bf084ca09a976bd6657f931c.jpg",
+      "PackagePath": "staticwebassets\\images\\7324c679bf084ca09a976bd6657f931c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\74c83d4b92484b8189de480283074de9.jpg",
+      "PackagePath": "staticwebassets\\images\\74c83d4b92484b8189de480283074de9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\77aaa67f2f564eb692808390e6734f10.jpg",
+      "PackagePath": "staticwebassets\\images\\77aaa67f2f564eb692808390e6734f10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\78d8e06ac91e4ce1ae00928883690383.jpg",
+      "PackagePath": "staticwebassets\\images\\78d8e06ac91e4ce1ae00928883690383.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\79c0160685854a38a4fdfcea84f90250.jpg",
+      "PackagePath": "staticwebassets\\images\\79c0160685854a38a4fdfcea84f90250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\7a2baec3c37a4c60976022b57d09342e.jpg",
+      "PackagePath": "staticwebassets\\images\\7a2baec3c37a4c60976022b57d09342e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\7a70c14b51a04f46950de671cf71d603.jpg",
+      "PackagePath": "staticwebassets\\images\\7a70c14b51a04f46950de671cf71d603.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\7b8a3640f2e44a98b50eecab13f03152.jpg",
+      "PackagePath": "staticwebassets\\images\\7b8a3640f2e44a98b50eecab13f03152.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\7ba63c6986c94bf4b1c6c848f26733a6.jpg",
+      "PackagePath": "staticwebassets\\images\\7ba63c6986c94bf4b1c6c848f26733a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\7d0040a347034c3bbcc2c2c309273521.jpg",
+      "PackagePath": "staticwebassets\\images\\7d0040a347034c3bbcc2c2c309273521.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\7d4ef9d054c94c5e80d2047e09e9ae2e.jpg",
+      "PackagePath": "staticwebassets\\images\\7d4ef9d054c94c5e80d2047e09e9ae2e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\7f0de5248b7a4ce79f5ffbf44beca180.jpg",
+      "PackagePath": "staticwebassets\\images\\7f0de5248b7a4ce79f5ffbf44beca180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\810d9572650743d896ac9f7e39049ffd.jpg",
+      "PackagePath": "staticwebassets\\images\\810d9572650743d896ac9f7e39049ffd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\816e4ad0b87741fc813acd558073f857.jpg",
+      "PackagePath": "staticwebassets\\images\\816e4ad0b87741fc813acd558073f857.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\83f7c654a6874248a15ef790c133cd4d.jpg",
+      "PackagePath": "staticwebassets\\images\\83f7c654a6874248a15ef790c133cd4d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\85733d8d7ece406e999e95a2437bd0d0.jpg",
+      "PackagePath": "staticwebassets\\images\\85733d8d7ece406e999e95a2437bd0d0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\8c8e744c314d43408807daa9aea01a83.jpg",
+      "PackagePath": "staticwebassets\\images\\8c8e744c314d43408807daa9aea01a83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\8d59236aa96f491cb53257f7a76367be.jpg",
+      "PackagePath": "staticwebassets\\images\\8d59236aa96f491cb53257f7a76367be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\8d7d7001d16b4f1d83a0cda4e28c4852.jpg",
+      "PackagePath": "staticwebassets\\images\\8d7d7001d16b4f1d83a0cda4e28c4852.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\8dfd69cd79054eddb3a294d6d4bcdeb8.jpg",
+      "PackagePath": "staticwebassets\\images\\8dfd69cd79054eddb3a294d6d4bcdeb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\8f77e1857ee6434aa8010cc8f1aeb80b.jpg",
+      "PackagePath": "staticwebassets\\images\\8f77e1857ee6434aa8010cc8f1aeb80b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\8fb110d2558d4bcd91beb322343abf53.jpg",
+      "PackagePath": "staticwebassets\\images\\8fb110d2558d4bcd91beb322343abf53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\903e2fa3945d487c9c4d2687a98fd3e8.jpg",
+      "PackagePath": "staticwebassets\\images\\903e2fa3945d487c9c4d2687a98fd3e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\92bc23d316b84b58b16de87fb936df66.jpg",
+      "PackagePath": "staticwebassets\\images\\92bc23d316b84b58b16de87fb936df66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\9358bcad73b949b3a764031513a28385.jpg",
+      "PackagePath": "staticwebassets\\images\\9358bcad73b949b3a764031513a28385.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\950704bbf6694ade9e1b1d8f24358338.jpg",
+      "PackagePath": "staticwebassets\\images\\950704bbf6694ade9e1b1d8f24358338.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\96601978712d4f6ab4c5e19e11b40032.jpg",
+      "PackagePath": "staticwebassets\\images\\96601978712d4f6ab4c5e19e11b40032.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\988989abefd74d6db3919f434ce8702e.jpg",
+      "PackagePath": "staticwebassets\\images\\988989abefd74d6db3919f434ce8702e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\994a2dfbca9e419cb49575a5eb2f343b.jpg",
+      "PackagePath": "staticwebassets\\images\\994a2dfbca9e419cb49575a5eb2f343b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\9a2554dc3b3844cb8e860feb2494cd9a.jpg",
+      "PackagePath": "staticwebassets\\images\\9a2554dc3b3844cb8e860feb2494cd9a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\9e6c41e333404834ae668186280ab1e6.jpg",
+      "PackagePath": "staticwebassets\\images\\9e6c41e333404834ae668186280ab1e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\9faf963110f34c2b86a0d4d302ff9dc5.jpg",
+      "PackagePath": "staticwebassets\\images\\9faf963110f34c2b86a0d4d302ff9dc5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\a1b9204e35a44ba9a0b1ca431e234b9e.jpg",
+      "PackagePath": "staticwebassets\\images\\a1b9204e35a44ba9a0b1ca431e234b9e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\a3b6b610469c48e6977bdefb156d7b86.jpg",
+      "PackagePath": "staticwebassets\\images\\a3b6b610469c48e6977bdefb156d7b86.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\a55de752d87c45c5a40d921df3b07d0a.jpg",
+      "PackagePath": "staticwebassets\\images\\a55de752d87c45c5a40d921df3b07d0a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\ab56d88671ce408c9d27297ae5184ba7.jpg",
+      "PackagePath": "staticwebassets\\images\\ab56d88671ce408c9d27297ae5184ba7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\abb9ae0499bb43e8b746cda717c9f32f.jpg",
+      "PackagePath": "staticwebassets\\images\\abb9ae0499bb43e8b746cda717c9f32f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\abe2cfc6465b4abebf37e9ad2ca59ba1.jpg",
+      "PackagePath": "staticwebassets\\images\\abe2cfc6465b4abebf37e9ad2ca59ba1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\ac37b91d7bf7405bb839bf33a39c9f5e.jpg",
+      "PackagePath": "staticwebassets\\images\\ac37b91d7bf7405bb839bf33a39c9f5e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\b49b67450d9a4cf6a658374d25cffe58.jpg",
+      "PackagePath": "staticwebassets\\images\\b49b67450d9a4cf6a658374d25cffe58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\b66201ea95384da7b68a284664af7144.jpg",
+      "PackagePath": "staticwebassets\\images\\b66201ea95384da7b68a284664af7144.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\b84faf8b709d4e92a1e964236601aedc.jpg",
+      "PackagePath": "staticwebassets\\images\\b84faf8b709d4e92a1e964236601aedc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\b8d3c46e69f74f2984e20fc7d6c18ff2.jpg",
+      "PackagePath": "staticwebassets\\images\\b8d3c46e69f74f2984e20fc7d6c18ff2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\b95892ac302744f5a2b879c50afc4a5e.jpg",
+      "PackagePath": "staticwebassets\\images\\b95892ac302744f5a2b879c50afc4a5e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\bbc4367786c04afd88372b7b7bf6c9af.jpg",
+      "PackagePath": "staticwebassets\\images\\bbc4367786c04afd88372b7b7bf6c9af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\bccafa4128c846959fe11f3a888720aa.jpg",
+      "PackagePath": "staticwebassets\\images\\bccafa4128c846959fe11f3a888720aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\bd26ecd419ef42068bda9b44e0e29b78.jpg",
+      "PackagePath": "staticwebassets\\images\\bd26ecd419ef42068bda9b44e0e29b78.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\bd3bb822c3ca42caa38fca381f5cbc44.jpg",
+      "PackagePath": "staticwebassets\\images\\bd3bb822c3ca42caa38fca381f5cbc44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\bda726756c0e431f94189ccbdb1984fb.jpg",
+      "PackagePath": "staticwebassets\\images\\bda726756c0e431f94189ccbdb1984fb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\bf029508d14b44f0b620a952da6ed17d.jpg",
+      "PackagePath": "staticwebassets\\images\\bf029508d14b44f0b620a952da6ed17d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\bf07741209f34f93ae81e846dff6b832.jpg",
+      "PackagePath": "staticwebassets\\images\\bf07741209f34f93ae81e846dff6b832.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\c12fe5dc5873465a9ffb8a16e834180d.jpg",
+      "PackagePath": "staticwebassets\\images\\c12fe5dc5873465a9ffb8a16e834180d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\c1539a602f9742c69f1f52ac63b7e710.jpg",
+      "PackagePath": "staticwebassets\\images\\c1539a602f9742c69f1f52ac63b7e710.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\c2db3d22cd984d4e93a576bfdadaecce.jpg",
+      "PackagePath": "staticwebassets\\images\\c2db3d22cd984d4e93a576bfdadaecce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\c41f34d242a64775be4b109d8b505ba3.jpg",
+      "PackagePath": "staticwebassets\\images\\c41f34d242a64775be4b109d8b505ba3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\c46fd83fbb6146fa92f3aedda15e7e25.jpg",
+      "PackagePath": "staticwebassets\\images\\c46fd83fbb6146fa92f3aedda15e7e25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\c5f29c27c80e41a99e48994866f46933.jpg",
+      "PackagePath": "staticwebassets\\images\\c5f29c27c80e41a99e48994866f46933.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\c5f8f4af19664b53afa47fb9df18cd47.jpg",
+      "PackagePath": "staticwebassets\\images\\c5f8f4af19664b53afa47fb9df18cd47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\c6879465153849d28f2302d15a05a520.jpg",
+      "PackagePath": "staticwebassets\\images\\c6879465153849d28f2302d15a05a520.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\c75e1844dd85435ebdafb3c8ddf75f6d.jpg",
+      "PackagePath": "staticwebassets\\images\\c75e1844dd85435ebdafb3c8ddf75f6d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\c8b7640bd21843a684425f414253540a.jpg",
+      "PackagePath": "staticwebassets\\images\\c8b7640bd21843a684425f414253540a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\c9e21faa49bf44e7b0cc80b3555c8489.jpg",
+      "PackagePath": "staticwebassets\\images\\c9e21faa49bf44e7b0cc80b3555c8489.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\cbbe6b54b3b6431697ffdec1df7fb4a4.jpg",
+      "PackagePath": "staticwebassets\\images\\cbbe6b54b3b6431697ffdec1df7fb4a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\cbd02f35b12c46b496d88f27de4364b9.jpg",
+      "PackagePath": "staticwebassets\\images\\cbd02f35b12c46b496d88f27de4364b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\cd0d978b10474572a87a71bd892d2ed4.jpg",
+      "PackagePath": "staticwebassets\\images\\cd0d978b10474572a87a71bd892d2ed4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\ce9f738d570b480f9d96247ee0d7bfa4.jpg",
+      "PackagePath": "staticwebassets\\images\\ce9f738d570b480f9d96247ee0d7bfa4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\d0c785ce477d46599cc78bf96a45790c.jpg",
+      "PackagePath": "staticwebassets\\images\\d0c785ce477d46599cc78bf96a45790c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\d11abcf8f8a247cdbaf981820bcf92ca.jpg",
+      "PackagePath": "staticwebassets\\images\\d11abcf8f8a247cdbaf981820bcf92ca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\d27b801bc909435fb01ce54892d4ae54.jpg",
+      "PackagePath": "staticwebassets\\images\\d27b801bc909435fb01ce54892d4ae54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\d3c6a89b0452441d9248cc04d91651ef.jpg",
+      "PackagePath": "staticwebassets\\images\\d3c6a89b0452441d9248cc04d91651ef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\d47d8ac0803b431b81b5d6c2c8b703fa.jpg",
+      "PackagePath": "staticwebassets\\images\\d47d8ac0803b431b81b5d6c2c8b703fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\d4aa5ed861e445dea46bf2d7f7647501.jpg",
+      "PackagePath": "staticwebassets\\images\\d4aa5ed861e445dea46bf2d7f7647501.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\d58984fcd7bf448fa051ebb7120a8378.jpg",
+      "PackagePath": "staticwebassets\\images\\d58984fcd7bf448fa051ebb7120a8378.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\d68c2f4a47434f4494adaeeda3dddd24.jpg",
+      "PackagePath": "staticwebassets\\images\\d68c2f4a47434f4494adaeeda3dddd24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\d955624c82884d81b18d35d9e790777b.jpg",
+      "PackagePath": "staticwebassets\\images\\d955624c82884d81b18d35d9e790777b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\d980a0fa43564eabaad15256f3ae2c7d.jpg",
+      "PackagePath": "staticwebassets\\images\\d980a0fa43564eabaad15256f3ae2c7d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\dca1e8789dd749d2bdd558ad2df93d0e.jpg",
+      "PackagePath": "staticwebassets\\images\\dca1e8789dd749d2bdd558ad2df93d0e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\ddff3640de144c64aace71e3a21a8693.jpg",
+      "PackagePath": "staticwebassets\\images\\ddff3640de144c64aace71e3a21a8693.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\dec3dfa42084403996243d1035bd0fc6.jpg",
+      "PackagePath": "staticwebassets\\images\\dec3dfa42084403996243d1035bd0fc6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\dee952139788423b98c906291c031682.png",
+      "PackagePath": "staticwebassets\\images\\dee952139788423b98c906291c031682.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\e1553305cc6445bcb4764afa88e84bcb.jpg",
+      "PackagePath": "staticwebassets\\images\\e1553305cc6445bcb4764afa88e84bcb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\e3f01d657ff3444791df57c8e25e0b4c.jpg",
+      "PackagePath": "staticwebassets\\images\\e3f01d657ff3444791df57c8e25e0b4c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\e45f4b210b314db2802b91996bddac30.jpg",
+      "PackagePath": "staticwebassets\\images\\e45f4b210b314db2802b91996bddac30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\e4baad7d61a0497385d387cc58f7fd19.jpg",
+      "PackagePath": "staticwebassets\\images\\e4baad7d61a0497385d387cc58f7fd19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\e5c318950be74ace95211edef1c7b436.jpg",
+      "PackagePath": "staticwebassets\\images\\e5c318950be74ace95211edef1c7b436.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\e6566e74995b43bda1ac6c794ea0b435.jpg",
+      "PackagePath": "staticwebassets\\images\\e6566e74995b43bda1ac6c794ea0b435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\e731b9b339854039aefa504a737bda19.jpg",
+      "PackagePath": "staticwebassets\\images\\e731b9b339854039aefa504a737bda19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\e79805e5f1e540d6b10e9188c30a9db3.jpg",
+      "PackagePath": "staticwebassets\\images\\e79805e5f1e540d6b10e9188c30a9db3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\eb8e4bfb447b4536922fa63801fe65c5.jpg",
+      "PackagePath": "staticwebassets\\images\\eb8e4bfb447b4536922fa63801fe65c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\eee8e2aeda5e4a9380c91ca6f8409561.jpg",
+      "PackagePath": "staticwebassets\\images\\eee8e2aeda5e4a9380c91ca6f8409561.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\ef930fa438fc4ad18a3c77ea455b9eb2.jpg",
+      "PackagePath": "staticwebassets\\images\\ef930fa438fc4ad18a3c77ea455b9eb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\f0127d5ecfde4cb6a2114a1efde4a492.jpg",
+      "PackagePath": "staticwebassets\\images\\f0127d5ecfde4cb6a2114a1efde4a492.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\f1e01391b9c9443a8714e39b7958a692.jpg",
+      "PackagePath": "staticwebassets\\images\\f1e01391b9c9443a8714e39b7958a692.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\f2b88c7bf0864bc885c840483dab523d.jpg",
+      "PackagePath": "staticwebassets\\images\\f2b88c7bf0864bc885c840483dab523d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\f510624caf8e4f78857502ae4b52767e.jpg",
+      "PackagePath": "staticwebassets\\images\\f510624caf8e4f78857502ae4b52767e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\f64f6bf0f1f34fe591b9ae6e0c3bb0a6.jpg",
+      "PackagePath": "staticwebassets\\images\\f64f6bf0f1f34fe591b9ae6e0c3bb0a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\f78035485ec945389cf8d8fde37439ad.jpg",
+      "PackagePath": "staticwebassets\\images\\f78035485ec945389cf8d8fde37439ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\f7ae69ee9d5b40b3b438055cc4e57923.jpg",
+      "PackagePath": "staticwebassets\\images\\f7ae69ee9d5b40b3b438055cc4e57923.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\f80b9f7b353e44a68ddf8be183b0985b.png",
+      "PackagePath": "staticwebassets\\images\\f80b9f7b353e44a68ddf8be183b0985b.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\f8963550cc08481ab4e96ed9de62c06c.jpg",
+      "PackagePath": "staticwebassets\\images\\f8963550cc08481ab4e96ed9de62c06c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\faa60ce3c9a8424bb98bd0f23fbacc3c.jpg",
+      "PackagePath": "staticwebassets\\images\\faa60ce3c9a8424bb98bd0f23fbacc3c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\fae0feffbfdf41939343104851d9df64.jpg",
+      "PackagePath": "staticwebassets\\images\\fae0feffbfdf41939343104851d9df64.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\fb8cb80767cd437c910e8ded030f416e.jpg",
+      "PackagePath": "staticwebassets\\images\\fb8cb80767cd437c910e8ded030f416e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\fc8745074b404cf7bf4e93f170102fb9.jpg",
+      "PackagePath": "staticwebassets\\images\\fc8745074b404cf7bf4e93f170102fb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\fcb6655e7eef459c9f2903a506bc647a.jpg",
+      "PackagePath": "staticwebassets\\images\\fcb6655e7eef459c9f2903a506bc647a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\fd252592e310449fb2ba9637111488f4.jpg",
+      "PackagePath": "staticwebassets\\images\\fd252592e310449fb2ba9637111488f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\fd5f5622bcbc4f8dbb7e6cf6e84fb1cb.jpg",
+      "PackagePath": "staticwebassets\\images\\fd5f5622bcbc4f8dbb7e6cf6e84fb1cb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\fe500660708749c096b98f3922730c7e.jpg",
+      "PackagePath": "staticwebassets\\images\\fe500660708749c096b98f3922730c7e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\fe9923d6d6f74925bdf298b3c2e7e545.jpg",
+      "PackagePath": "staticwebassets\\images\\fe9923d6d6f74925bdf298b3c2e7e545.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\CSharp\\MyWebAPINetCore\\OnlineFloralDelivery\\DemoOnlineFloralDelivery\\DemoOnlineFloralDelivery\\wwwroot\\images\\ffe75b66194e40a6879c5d9fe9eece1e.jpg",
+      "PackagePath": "staticwebassets\\images\\ffe75b66194e40a6879c5d9fe9eece1e.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DemoOnlineFloralDelivery.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DemoOnlineFloralDelivery.props",
+      "PackagePath": "build\\DemoOnlineFloralDelivery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DemoOnlineFloralDelivery.props",
+      "PackagePath": "buildMultiTargeting\\DemoOnlineFloralDelivery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DemoOnlineFloralDelivery.props",
+      "PackagePath": "buildTransitive\\DemoOnlineFloralDelivery.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
